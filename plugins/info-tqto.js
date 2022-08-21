@@ -17,6 +17,8 @@ let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
 https://github.com/adiwajshing
 *❉ Nurutomo:*
 https://github.com/Nurutomo
+*❉ ImleviOfc:*
+https://github.com/ImleviOfc
 *❉ Istikmal:* 
 https://github.com/BochilGaming
 *❉ Ariffb:*
@@ -61,10 +63,10 @@ https://github.com/FahriAdison
 *❉ Rlxfly:*
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/bot_whangsaf",
+    mediaUrl: "https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/bot_whangsaf", 
-    title: 'Simple Bot Esm',
+    description: "https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=", 
+    title: '𝚅𝙴𝙽-𝙱𝙾𝚃𝚉',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc

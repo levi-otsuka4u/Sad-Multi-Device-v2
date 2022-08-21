@@ -45,7 +45,7 @@ handler.all = async function (m) {
 					title: global.ucapan,
 					body: wm,
 					mediaUrl: sgc,
-					description: 'simple bot esm',
+					description: '𝚅𝙴𝙽-𝙱𝙾𝚃𝚉',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(urls)).buffer(),
 					sourceUrl: "https://github.com/ImleviOfc",					

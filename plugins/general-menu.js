@@ -117,16 +117,16 @@ ptt: true
   //  text.trim(), './media/marin.jpg', [
 // [`Speedtest`, `${_p}ping`],
 // [`Owner`, `${_p}owner`]
-//], m, {asLocation: true})
+//], menu, {asLocation: true})
   } catch (e) {
     m.reply('An error occurred')
     throw e
   }
 }
-handler.help = ['m']
+handler.help = ['menu']
 handler.tags = ['general']
-handler.alias = ['m']
-handler.command = /^(m)$/i
+handler.alias = ['menu']
+handler.command = ['menu']
 handler.exp = 3
 
 export default handler
